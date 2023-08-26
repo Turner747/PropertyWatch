@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Property Watch</string>
+    <string name="title_placeholder">123 Fake Street, Addressville</string>
+    <string name="price_placeholder">Price: $200000</string>
+    <string name="phone_placeholder">Phone: 0403697488</string>
+    <string name="email_button">Email a friend</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="email_subject">Investment Property Advice</string>
+    <string name="email_body">I would like to recommend this property at %1$s listed for $%2$s </string>
+</resources>
